@@ -1,0 +1,7 @@
+{
+  "course": "Sample Course",
+  "weeks": [
+    { "week": 1, "topic": "Introduction" },
+    { "week": 2, "topic": "Advanced Topics" }
+  ]
+}

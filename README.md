@@ -54,7 +54,7 @@ The agent can:
 ![Syllabus Generator Output](assets/setup.png)
 
 
-## Agent 
+## Agent Instructions
 ![Syllabus Generator Output](assets/config.png)
 
 

@@ -5,7 +5,7 @@ An AI-powered chatbot developed using **IBM watsonx Assistant** to assist educat
 
 This project is an AI-powered syllabus and curriculum planner built using IBM watsonx technologies. It helps educators and students organize course topics efficiently over a specified duration.
 
-🧠 Problem Statement
+## 🧠 Problem Statement
 Syllabus and Curriculum Design Optimizer
 
 A Syllabus and Curriculum Design Optimizer is an AI system designed to assist faculty in developing and refining academic course content. It can autonomously:

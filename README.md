@@ -28,4 +28,14 @@ Make sure you have Python 3 installed on your machine. Then, run the following c
 
 ```bash
 python syllabus_planner.py
+```
+## Useful Links
 
+- [IBM watsonx Assistant](https://www.ibm.com/cloud/watsonx-assistant) – Official IBM watsonx Assistant product page  
+- [IBM watsonx Documentation](https://www.ibm.com/docs/en/watsonx-assistant) – Detailed guides and API references  
+- [GitHub](https://github.com/) – Host and collaborate on your code  
+- [Python Official Website](https://www.python.org/) – Download and learn Python  
+- [JSON.org](https://www.json.org/json-en.html) – Learn about JSON data format  
+
+##connect with me on Linkedin
+- [linkedin](https://www.linkedin.com/in/douglas-fernandes-144b86212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) -connect with me

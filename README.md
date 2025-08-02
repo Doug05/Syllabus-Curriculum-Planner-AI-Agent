@@ -107,5 +107,5 @@ python syllabus_planner.py
 - [Python Official Website](https://www.python.org/) – Download and learn Python  
 - [JSON.org](https://www.json.org/json-en.html) – Learn about JSON data format  
 
-##connect with me on Linkedin
+## Connect With Me On Linkedin
 - [linkedin](https://www.linkedin.com/in/douglas-fernandes-144b86212?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) -connect with me

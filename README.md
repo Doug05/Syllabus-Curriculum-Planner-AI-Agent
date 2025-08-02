@@ -53,12 +53,14 @@ The agent can:
 - `LICENSE` — Project license file.
 
 ## Screenshots
-![Syllabus Generator Output](assets/.png)
-![Syllabus Generator Output](assets/.png)
-![Syllabus Generator Output](assets/.png)
-![Syllabus Generator Output](assets/.png)
-![Syllabus Generator Output](assets/.png)
-
+![Syllabus Generator Output](assets/setup.png)
+![Syllabus Generator Output](assets/config.png)
+![Syllabus Generator Output](assets/quick_questions.png)
+![Syllabus Generator Output](assets/api_ref.png)
+![Syllabus Generator Output](assets/agent_preview.png)
+![Syllabus Generator Output](assets/resource_list.png)
+![Syllabus Generator Output](assets/deployment.png)
+![Syllabus Generator Output](assets/testing.png)
 
 
 ## How the Python Code Works

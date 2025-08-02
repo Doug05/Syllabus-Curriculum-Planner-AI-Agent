@@ -1,9 +1,6 @@
 # Syllabus-Curriculum-Planner-AI-Agent
 An AI-powered chatbot developed using **IBM watsonx Assistant** to assist educators, students, and academic institutions in planning structured syllabi and curriculum outlines for courses across various subjects.
 
-# Syllabus and Curriculum Planner AI Agent
-
-This project is an AI-powered syllabus and curriculum planner built using IBM watsonx technologies. It helps educators and students organize course topics efficiently over a specified duration.
 
 ## 🧠 Problem Statement
 Syllabus and Curriculum Design Optimizer
